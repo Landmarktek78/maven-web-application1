@@ -32,4 +32,3 @@ Build is done.
 LANDMARKTECH''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'robria12@gmail.com'
   }
 }
-
